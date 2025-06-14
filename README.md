@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 ![](./images/Screenshot%20Mobile.png)
 ![](./images/Screenshot%20Desktop.png)
@@ -36,5 +36,5 @@ Basic Box Model CSS and working with an image
 
 ## Author
 
-- Website - [Add your name here](https://www.michaelandreas.de)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [www.michaelandreas.de](https://www.michaelandreas.de)
+- Frontend Mentor - [@Michael-Andreas](https://www.frontendmentor.io/profile/yourusername)
