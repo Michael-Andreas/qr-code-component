@@ -37,4 +37,4 @@ Basic Box Model CSS and working with an image
 ## Author
 
 - Website - [www.michaelandreas.de](https://www.michaelandreas.de)
-- Frontend Mentor - [@Michael-Andreas](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Michael-Andreas](https://www.frontendmentor.io/profile/Michael-Andreas)
